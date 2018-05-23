@@ -1,0 +1,1 @@
+diagram-example-gojs
