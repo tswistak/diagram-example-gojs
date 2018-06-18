@@ -5,3 +5,4 @@ Code for article *Programming of interactive diagrams with the use of GoJS* / *P
 You can also find it on Medium:
 * https://itnext.io/creating-simple-application-with-gojs-part-1-e3c320765def
 * https://itnext.io/creating-simple-application-with-gojs-part-2-c33139e934ba
+* https://itnext.io/creating-simple-application-with-gojs-part-3-9bfc8aa8813b
